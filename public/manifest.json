@@ -45,7 +45,8 @@
     "short_name": "Tracker",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "../index.html",
+    "start_url": "./index.html",
+    "scope": "./index.html",
     "description": "An app that allows you to add budget.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
